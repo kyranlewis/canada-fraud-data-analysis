@@ -8,7 +8,7 @@ The initial challenge with the dataset was that it was primarily in french, as t
 
 Afterword, I began to create my Python Jupyter notebook to begin my analysis.
 
-# Questions for Dataset:
+# Questions I had for the Dataset:
 
 - Which solicitation method has the highest success rate?
 - Which age range fell for the most scams?
@@ -20,3 +20,10 @@ Afterword, I began to create my Python Jupyter notebook to begin my analysis.
 - Which province falls for the most investment scams?
 - What is the rise of Investment Fraud cases from 2021-2024
 - What are the most common fraud types by Age Group?
+
+My main Python tools I used for my analysis were
+
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
