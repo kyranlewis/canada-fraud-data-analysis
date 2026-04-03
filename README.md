@@ -27,3 +27,7 @@ My main Python tools I used for my analysis were;
 - Pandas
 - Matplotlib
 - Seaborn
+
+Here are the visualizations and answers to my questions.
+
+# Question 1 - Which solicitation method has the highest success rate?
