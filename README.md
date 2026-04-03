@@ -31,3 +31,17 @@ My main Python tools I used for my analysis were;
 Here are the visualizations and answers to my questions.
 
 # Question 1 - Which solicitation method has the highest success rate?
+![Q1A](images/q1-a.png)
+![Q1B](images/q1-b.png)
+
+As displayed in Image A, the top solicitation types to be most successful were;
+- Door to door/in person
+- Internet
+- Internet-social network
+
+The second image I created to help show me how many scams per type there were, as that is also important to the success rate. Door to door/in person had an overwhelming majority.
+
+# Question 2 - Which age range fell for the most scams?
+![Q2](images/q2.png)
+
+The visualization showed me that most people falling for scams were in their 30's, with 20's and 40's being right below.
