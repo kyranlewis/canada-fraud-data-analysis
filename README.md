@@ -40,8 +40,9 @@ As displayed in Image A, the top solicitation types to be most successful were;
 
 The second image I created to help show me how many scams per type there were, as that is also important to the success rate. Door to door/in person had an overwhelming majority.
 
-# Question 2 - Which age range fell for the most scams?
+# Question 2 & 5 - Which age range fell for the most scams, and what is their dollar loss on average?
 ![Q2](images/q2.png)
+![Q5](images/q5.png)
 
 The visualization showed me that most people falling for scams were in their 30's, with 20's and 40's being high-risk as well.
 This makes sense as these age groups tend to be the most active working class, making them preferable targets for malicious users.
