@@ -36,7 +36,7 @@ My main Python tools I used for my analysis were;
 
 This suggests that direct and online communication methods are the most effective for fraud, likely due to their ability to reach individuals quickly and build trust.
 
-The second image I created to help show me how many scams per type there were, as that is also important to the success rate. Door to door/in person had an overwhelming majority.
+The second image shows how many scams per type there were, as that is also important to the success rate. Door to door/in person had an overwhelming majority.
 
 ## Question 2 & 5 - Which age range fell for the most scams, and what is their dollar loss on average?
 ![Q2](images/q2.png)
