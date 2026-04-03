@@ -45,6 +45,12 @@ The second image shows how many scams per type there were, as that is also impor
 The visualization showed me that most people falling for scams were in their 30's, with 20's and 40's being high-risk as well.
 This makes sense as these age groups tend to be the most active working class, making them preferable targets for malicious users.
 
+
+## Outcome
+The analysis revealed that fraud disproportionately affects working-age individuals in terms of frequency, while older age groups experience significantly higher financial losses. It also highlighted that modern communication methods, such as internet-based scams, have high success rates due to accessibility and reach.
+
+
+
 In contrast to this, there is a dramatic increase in dollar loss when you get to the older age groups (50's, 60's, 70's).
 Fewer scams may be in these age groups, but the dollar loss is dramatically higher due to accumulated savings or retirement funs.
 
