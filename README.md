@@ -34,10 +34,7 @@ My main Python tools I used for my analysis were;
 ![Q1A](images/q1-a.png)
 ![Q1B](images/q1-b.png)
 
-As displayed in Image A, the top solicitation types to be most successful were;
-- Door to door/in person
-- Internet
-- Internet-social network
+This suggests that direct and online communication methods are the most effective for fraud, likely due to their ability to reach individuals quickly and build trust.
 
 The second image I created to help show me how many scams per type there were, as that is also important to the success rate. Door to door/in person had an overwhelming majority.
 
