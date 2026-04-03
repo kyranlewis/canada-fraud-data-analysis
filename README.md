@@ -46,5 +46,6 @@ The visualization showed me that most people falling for scams were in their 30'
 This makes sense as these age groups tend to be the most active working class, making them preferable targets for malicious users.
 
 In contrast to this, there is a dramatic increase in dollar loss when you get to the older age groups (50's, 60's, 70's).
-Fewer scams may be in these groups, but the dollar loss is dramatically higher due to accumulated savings or retirement funs.
+Fewer scams may be in these age groups, but the dollar loss is dramatically higher due to accumulated savings or retirement funs.
+
 
