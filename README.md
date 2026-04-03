@@ -44,4 +44,5 @@ The second image I created to help show me how many scams per type there were, a
 # Question 2 - Which age range fell for the most scams?
 ![Q2](images/q2.png)
 
-The visualization showed me that most people falling for scams were in their 30's, with 20's and 40's being right below.
+The visualization showed me that most people falling for scams were in their 30's, with 20's and 40's being high-risk as well.
+This makes sense as these age groups tend to be the most active working class, making them preferable targets for malicious users.
