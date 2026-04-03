@@ -21,8 +21,8 @@ Afterword, I began to create my Python Jupyter notebook to begin my analysis.
 - What is the rise of Investment Fraud cases from 2021-2024
 - What are the most common fraud types by Age Group?
 
-My main Python tools I used for my analysis were
 
+My main Python tools I used for my analysis were;
 - Numpy
 - Pandas
 - Matplotlib
